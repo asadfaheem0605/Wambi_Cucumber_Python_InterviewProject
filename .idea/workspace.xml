@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14cce1c3-adc7-4598-a2aa-58649a151f45" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="03262020_Cleanroom_Python" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Zg2yPAm3GKpo9H1rmoSr1rSI4q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\test\maps-cucumber-python\features" />
+      <recent name="C:\testProjs\cucumber-python" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\test\maps-cucumber-python-cross-browser\utilities" />
+      <recent name="C:\test\maps-cucumber-python\utilities" />
+      <recent name="C:\test\maps-cucumber-python" />
+      <recent name="C:\CLEANROOM_AUTOMATION_FRWRK\MA%20Consulting\cucumber-python\steps" />
+      <recent name="C:\CLEANROOM_AUTOMATION_FRWRK\MA%20Consulting\cucumber-python\features\API" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14cce1c3-adc7-4598-a2aa-58649a151f45" name="Default Changelist" comment="" />
+      <created>1585246669309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585246669309</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585286380048">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="395" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585286380048" />
+    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586038028738">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586038028738" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1586117294629">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586117294629" />
+    <state x="457" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1586136505838">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="390" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586128167296" />
+    <state x="457" y="226" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1586136505838" />
+    <state x="457" y="142" width="831" height="645" key="find.popup" timestamp="1586135237585">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="390" y="120" width="709" height="546" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1586038153305" />
+    <state x="457" y="142" width="831" height="645" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1586135237585" />
+    <state x="324" y="90" width="700" height="530" key="recent.locations.popup" timestamp="1585278682708">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="324" y="90" width="700" height="530" key="recent.locations.popup/0.0.1366.728@0.0.1366.728" timestamp="1585278682708" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586041094711">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586041094711" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/steps/create-new-project.def.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/steps/create-new-project.def.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
